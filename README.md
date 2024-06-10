@@ -2,7 +2,7 @@
 
 Created a typing game using **Python**, implemented algorithms to calculate typing speed and accuracy.
 
-## Overview
+## About My Portfolio
 
 This repository contains projects and assignments that I have completed as part of my coursework. It serves as a personal archive and a showcase of my learning journey.
 
